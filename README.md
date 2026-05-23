@@ -341,7 +341,7 @@ system refusal due to insufficient document grounding.
   - README drafting
 
 Approximate usage:
-- ~300–500 prompts
+- ~250-400 prompts
 
 ---
 
